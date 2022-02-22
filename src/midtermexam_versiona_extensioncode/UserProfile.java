@@ -13,6 +13,11 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+/*
+  This is the comment of Hoang Chuong Nguyen, student ID: 991651113. Have a good day Professor.
+  Date: Feb 22,2022
+*/
 public class UserProfile 
 {
     
