@@ -4,12 +4,20 @@
  */
 package midtermexam_versiona_extensioncode;
 
+import java.util.*;
+
 /**
  *
  * @author chuong5850
  */
 public class TestUserprofile {
     public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Please enter your name here: ");
+        String inputName = sc.nextLine();
+        System.out.println("Please choose one of genres : Comedy, Drama, Action, Mystery");
+        String inputGenres = sc.nextLine();
         
+        System.out.println("Congratulation your profile was created successfully !!!");
     }
 }
